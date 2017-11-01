@@ -75,7 +75,7 @@ class BugsnagLogTarget extends \yii\log\Target
 
                 if (is_string($message))
                 {
-                    return "{$levelMap[$level]} - ({$category}) @ {$date} - {$message}";
+                    return "{$map} - ({$category}) @ {$date} - {$message}";
                 }
 
                 if (is_array($message))
