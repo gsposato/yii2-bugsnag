@@ -14,10 +14,5 @@
         "psr-4": {
             "gsposato\\yii2bugsnag\\": "src/"
         }
-    },
-    "require": {
-        "bugsnag/bugsnag": "2.*",
-        "yiisoft/yii2": "^2.0",
-        "bower-asset/bugsnag": "^3.0"
     }
 }
