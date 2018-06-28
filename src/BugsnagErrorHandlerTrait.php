@@ -1,5 +1,5 @@
 <?php
-namespace pinfirestudios\yii2bugsnag;
+namespace gsposato\yii2bugsnag;
 
 use Yii;
 
